@@ -1,0 +1,1 @@
+<h2>React-native + Redux (starter version)</h2>
